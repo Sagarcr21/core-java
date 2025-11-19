@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa52f82a-0ea0-4a55-babe-5d805829fd86" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../abstract/src/com/xworkz/abstracta/external/Dell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract/src/com/xworkz/abstracta/external/India.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract/src/com/xworkz/abstracta/external/KCF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract/src/com/xworkz/abstracta/external/Mango.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract/src/com/xworkz/abstracta/external/OxfordSchool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract/src/com/xworkz/abstracta/external/SBI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract/src/com/xworkz/abstracta/external/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract/src/com/xworkz/abstracta/external/sonyTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract/src/com/xworkz/abstracta/internal/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract/src/com/xworkz/abstracta/internal/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract/src/com/xworkz/abstracta/internal/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract/src/com/xworkz/abstracta/internal/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract/src/com/xworkz/abstracta/internal/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract/src/com/xworkz/abstracta/internal/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract/src/com/xworkz/abstracta/internal/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emmueration/emmueration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/packages/external/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/packages/external/Mainrunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/packages/internal/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/packages/internal/Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/work.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="355t6i5VCAhv0ilQ1pFDuVnedn5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Mainrunner.executor": "Run",
+    "Application.Wildcat.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "project",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/SAGAR GOWDA/OneDrive/Desktop/java core/public/src/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa52f82a-0ea0-4a55-babe-5d805829fd86" name="Changes" comment="" />
+      <created>1762411589835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762411589835</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
