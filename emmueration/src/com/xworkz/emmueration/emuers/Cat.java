@@ -5,10 +5,12 @@ public enum Cat {
     Bengal("bad"),Ragdoll("very good"),Abyssinian("normal"),ScottishFold("good");
     private String catBehaviour;
     Cat(String catBehaviour){
+
         this.catBehaviour=catBehaviour;
     }
 
     public String getCatBehaviour() {
+
         return catBehaviour;
     }
 }

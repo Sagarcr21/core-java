@@ -13,11 +13,13 @@ public enum State {
 
 
     private State(String itCompanies) {
+
         this.itCompanies = itCompanies;
     }
 
 
     public String getItCompanies() {
+
         return itCompanies;
     }
 }
